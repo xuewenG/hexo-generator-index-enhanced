@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-index-enhanced",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enhanced index generator for Hexo.",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,8 @@
   "author": "xuewenG (https://blog.xuewen.me)",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.1",
-    "hexo": "^5.4.0",
+    "chalk": "^4.1.2",
+    "hexo": "^6.0.0",
     "hexo-pagination": "^2.0.0"
   }
 }
